@@ -145,6 +145,3 @@ Feedstock Maintainers
 
 * [@tischi](https://github.com/tischi/)
 
-
-<!-- dummy commit to enable rerendering -->
-
